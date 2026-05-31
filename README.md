@@ -157,6 +157,5 @@ This project has been developed by:
 
 - Dhruv Yadav
 - Nayan Patidar
-- Pankaj Parmar 
--Priyanshu Khedekar
-
+- Pankaj Parmar
+- Priyanshu Khedekar
